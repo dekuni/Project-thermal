@@ -34,3 +34,8 @@ pip-delete-this-directory.txt
 # Sistema
 .DS_Store
 Thumbs.db
+# Ignorar venv
+Thermal_API/venv/
+
+# Ignorar pasta Thermal_API
+Thermal_API/
